@@ -1,4 +1,0 @@
-    modMain.bas
-    modDashboard.bas
-    modCaja.bas
-    modReportes.bas
